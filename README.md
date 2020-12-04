@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my Projects Page
 
-You can use the [editor on GitHub](https://github.com/colingreens/colingreens.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is my landing page for various projects.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ProjectBeta(to be named later)
 
-### Markdown
+ProjectBeta is project in Unity where I am building a framework for game developers to make levels without extensive knowledge in C#. Currently building a 2D platformer.
+See updates at [ProjectBeta](https://colingreens.github.io/projectbeta/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ham Dynasty
 
-```markdown
-Syntax highlighted code block
+Ham Dynasty is a dynasty contract fantasy football league that is a little complicated so we have placed some features into a website.
+Visit [HamDynasty](https://colingreens.github.io/HamDynasty/)
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colingreens/colingreens.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/colin_benson)
+[Instagram](https://www.instagram.com/colin_greens/)
