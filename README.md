@@ -1,6 +1,4 @@
-## Welcome to my Projects Page
-
-This is my landing page for various projects.  
+## Welcome to my Projects Page 
 
 ### ProjectBeta(to be named later)
 
